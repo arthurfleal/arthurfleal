@@ -10,5 +10,6 @@ Sou formado em Engenharia Elétrica e atuo com Inteligência de Negócios e Aná
     title="Excel" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg"
+    src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
+"
 />
