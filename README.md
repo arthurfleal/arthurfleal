@@ -2,7 +2,7 @@
 
 **`Analista de Dados | Business Intelligence`**
 
-Apaixonado por transformar dados em decisões estratégicas.
+Sou formado em Engenharia Elétrica e atuo com Inteligência de Negócios e Análise de Dados. Trabalho estruturando dados, modelando cenários e desenvolvendo indicadores estratégicos para apoiar tomada de decisão, com foco na maximização de margem, aumento de rentabilidade e melhoria de performance comercial.
 
 ## 🚀 Projetos em Destaque
 - 📦 Recomendação de Produtos (E-commerce)
