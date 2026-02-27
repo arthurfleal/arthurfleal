@@ -1,16 +1,13 @@
-## Hi there 👋
+# Arthur Leal
 
-<!--
-**arthurfleal/arthurfleal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista de Dados | Business Intelligence | SQL | Power BI  
 
-Here are some ideas to get you started:
+Apaixonado por transformar dados em decisões estratégicas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projetos em Destaque
+- 📦 Recomendação de Produtos (E-commerce)
+- 📉 Análise de Churn em Delivery
+- 👥 People Analytics
+
+## 🛠️ Tecnologias
+SQL • Power BI • Excel • PostgreSQL • Python
