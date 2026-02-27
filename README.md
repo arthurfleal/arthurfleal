@@ -1,6 +1,6 @@
-# Arthur Leal
+# 📈 Arthur de Farias Leal
 
-Analista de Dados | Business Intelligence | SQL | Power BI  
+**Analista de Dados | Business Intelligence`**
 
 Apaixonado por transformar dados em decisões estratégicas.
 
