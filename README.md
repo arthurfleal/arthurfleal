@@ -6,8 +6,8 @@ Sou formado em Engenharia Elétrica e atuo com Inteligência de Negócios e Aná
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="Excel"
+    title="Excel" 
     width="30px" 
     style="padding-right: 10px;" 
     src="file:///C:/Users/Laptop/Downloads/excel2-svgrepo-com.svg" 
