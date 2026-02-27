@@ -1,6 +1,6 @@
 # 📈 Arthur de Farias Leal
 
-**Analista de Dados | Business Intelligence`**
+**`Analista de Dados | Business Intelligence`**
 
 Apaixonado por transformar dados em decisões estratégicas.
 
